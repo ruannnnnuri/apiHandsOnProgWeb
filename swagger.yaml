@@ -1,20 +1,12 @@
 openapi: 3.2.0
 info:
-  title: Swagger Petstore - OpenAPI 3.2
+  title: API Hands-On Programação Web
   description: |-
-    This is a sample Pet Store Server based on the OpenAPI 3.2 specification. You can find out more about
-    Swagger at [https://swagger.io](https://swagger.io). In the third iteration of the pet store, we've switched to the design first approach!
-    You can now help us improve the API whether it's by making changes to the definition itself or to the code.
-    That way, with time, we can improve the API in general, and expose some of the new features in OAS 3.2.
-
-    Some useful links:
-    - [The Pet Store repository](https://github.com/swagger-api/swagger-petstore)
-    - [The source API definition for the Pet Store](https://github.com/swagger-api/swagger-petstore/blob/master/src/main/resources/openapi.yaml)
-    - [OpenAPI 3.2 Specification](https://spec.openapis.org/oas/v3.2.0.html)
+    Essa é uma API de teste criada como exercício na matéria de Programação Web
 
   termsOfService: https://swagger.io/terms/
   contact:
-    email: apiteam@swagger.io
+    email: 109990@aluno.uricer.edu.br
   license:
     name: Apache 2.0
     url: https://www.apache.org/licenses/LICENSE-2.0.html
@@ -23,26 +15,18 @@ externalDocs:
   description: Find out more about Swagger
   url: https://swagger.io
 servers:
-  - url: https://petstore32.swagger.io/api/v3
-    description: Production server (OAS 3.2)
-  - url: https://petstore-staging.swagger.io/api/v3
-    description: Staging server
+  - url: https://apihandsonprogweb.onrender.com/
 tags:
   - name: postagens
-    summary: Pet management operations
-    description: Everything about your Pets
-    externalDocs:
-      description: Find out more
-      url: https://swagger.io
 paths:
   /postagens:
     put:
       tags:
         - postagens
-      summary: Atualiza um livro.
-      operationId: updateLivro
+      summary: Atualiza uma postagem.
+      operationId: updatePost
       requestBody:
-        description: Atualiza um livro
+        description: Atualiza uma postagem
         content:
           application/json:
             schema:
@@ -67,7 +51,7 @@ paths:
         '400':
           description: ID inválido
         '404':
-          description: Livro não encontrado
+          description: Postagem não encontrada
         '422':
           description: Validation exception
         default:
@@ -79,10 +63,10 @@ paths:
     post:
       tags:
         - postagens
-      summary: Adiciona um novo Livro.
-      operationId: addLivro
+      summary: Adiciona uma nova postagem.
+      operationId: addPost
       requestBody:
-        description: Cria um novo livro
+        description: Cria uma nova postagem
         content:
           application/json:
             schema:
@@ -105,7 +89,7 @@ paths:
               schema:
                 $ref: '#/components/schemas/Postagem'
         '400':
-          description: Invalid input
+          description: Dados inválidos
         '422':
           description: Validation exception
         default:
@@ -118,8 +102,8 @@ paths:
     get:
       tags:
         - postagens
-      summary: Seleciona um livro por id.
-      operationId: getLivro
+      summary: Seleciona uma postagem por id.
+      operationId: getPost
       parameters:
         - name: id
           in: path
@@ -128,7 +112,7 @@ paths:
             type: string
       responses:
         '200':
-          description: successful operation
+          description: Successful operation
           content:
             application/json:
               schema:
@@ -137,9 +121,9 @@ paths:
               schema:
                 $ref: '#/components/schemas/Postagem'
         '400':
-          description: Invalid username supplied
+          description: ID inválido
         '404':
-          description: User not found
+          description: Post não encontrad
         default:
           description: Unexpected error
           content:
@@ -149,9 +133,9 @@ paths:
     delete:
       tags:
         - postagens
-      summary: Delete user.
-      description: This can only be done by the logged in user.
-      operationId: deleteUser
+      summary: Apagar postagem.
+      description: Apagar uma postagem por id.
+      operationId: deletePost
       parameters:
         - name: id
           in: path
@@ -160,9 +144,9 @@ paths:
             type: string
       responses:
         '200':
-          description: successful operation
+          description: Successful operation
         '400':
-          description: Invalid username supplied
+          description: ID inválido
         '404':
           description: User not found
         default:
@@ -182,10 +166,10 @@ components:
           examples: [10]
         titulo:
           type: string
-          examples: ["Título de Exemplo"]
+          examples: ["Título da Postagem"]
         descricao:
           type: string
-          examples: ["Descrição do Item"]
+          examples: ["Descrição da postagem"]
         autor:
           type: string
           examples: ["Pedro Falcão"]
@@ -216,24 +200,6 @@ components:
       required:
         - code
         - message
-  requestBodies:
-    Pet:
-      description: Pet object that needs to be added to the store
-      content:
-        application/json:
-          schema:
-            $ref: '#/components/schemas/Postagem'
-        application/xml:
-          schema:
-            $ref: '#/components/schemas/Postagem'
-    UserArray:
-      description: List of user object
-      content:
-        application/json:
-          schema:
-            type: array
-            items:
-              $ref: '#/components/schemas/Postagem'
   securitySchemes:
     petstore_auth:
       type: oauth2

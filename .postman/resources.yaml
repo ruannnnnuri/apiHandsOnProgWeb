@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: c980ce11-8a19-4dc7-8a60-bac460fd780d
+
+localResources:
+  specs:
+    - ..\swagger.yaml

@@ -30,5 +30,213 @@
     "autor": "Dante Alighieri",
     "dataPublicacao": "2023-11-20",
     "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYzFz7uzZUGlVicShtpvy3r0OHkUhrUN075EBVPefbAgkCvOdGL1J4JOJMiLWNhSh2IRLIm1i4qeiZ0OiMRkyTRSxIDWxaoPAqQ5QQE_U1w&s=10"
+  },
+  {
+    "id": 5,
+    "titulo": "React: O Campeão dos Frameworks em 2025",
+    "descricao": "Uma análise completa sobre por que o React continua dominando o mercado de desenvolvimento front-end, mesmo com a concorrência de Vue, Angular e Svelte.",
+    "autor": "Luccas Neto",
+    "dataPublicacao": "2025-01-20",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJBkzkXDZ7JGjbSVxvr80ki8I3SiLb6bvFnE7pugIYlMZA1yKmPuT-QmqXc4hsCx6HtYVso7d3YCgDjb6JcwWV1tDFWovoOJMNO6iwNTRP0Q&s=10"
+  },
+  {
+    "id": 6,
+    "titulo": "Inteligência Artificial Vai Me Substituir?",
+    "descricao": "Harlan Ellison questiona o futuro dos desenvolvedores com a ascensão das IAs generativas, e se estamos caminhando para uma obsolescência programada ou uma nova era de criatividade.",
+    "autor": "Harlan Ellison",
+    "dataPublicacao": "2024-11-05",
+    "fotoAutor": "https://s2.glbimg.com/6kULKgS6AUXTMptSYs3N_rew2I0=/560x560/e.glbimg.com/og/ed/f/original/2018/07/05/1045-p74-obituario-01.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "O Enigma do Banco de Dados Sem Nome",
+    "descricao": "Daniel Hartmann mergulha nos mistérios de um banco de dados misterioso que aparece e some dos servidores, deixando apenas rastros de queries indecifráveis.",
+    "autor": "Daniel Hartmann",
+    "dataPublicacao": "2025-02-14",
+    "fotoAutor": "https://static.wikia.nocookie.net/ordemparanormal/images/3/33/Retrato_de_Daniel_Hartmann_em_O_Espreitador_e_Outras_Hist%C3%B3rias.png/revision/latest?cb=20241219002912&path-prefix=pt-br"
+  },
+  {
+    "id": 8,
+    "titulo": "TypeScript: A Divina Comédia das Tipagens",
+    "descricao": "Uma jornada poética pelo inferno do JavaScript sem tipos, o purgatório das tipagens dinâmicas e o paraíso da segurança que o TypeScript proporciona.",
+    "autor": "Dante Alighieri",
+    "dataPublicacao": "2024-09-30",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYzFz7uzZUGlVicShtpvy3r0OHkUhrUN075EBVPefbAgkCvOdGL1J4JOJMiLWNhSh2IRLIm1i4qeiZ0OiMRkyTRSxIDWxaoPAqQ5QQE_U1w&s=10"
+  },
+  {
+    "id": 9,
+    "titulo": "Docker para Leigos: Como Não Explodir Seu Container",
+    "descricao": "Gi ensina de forma divertida e descomplicada como usar Docker sem medo, com dicas para evitar os erros mais comuns que fazem containers virarem bolas de fogo.",
+    "autor": "Luccas Neto",
+    "dataPublicacao": "2025-03-10",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJBkzkXDZ7JGjbSVxvr80ki8I3SiLb6bvFnE7pugIYlMZA1yKmPuT-QmqXc4hsCx6HtYVso7d3YCgDjb6JcwWV1tDFWovoOJMNO6iwNTRP0Q&s=10"
+  },
+  {
+    "id": 10,
+    "titulo": "O Grande Colapso da Nuvem de 2026",
+    "descricao": "Uma ficção especulativa sobre o dia em que todos os provedores de nuvem caíram simultaneamente e a humanidade redescobriu o que é ter dados apenas em discos rígidos locais.",
+    "autor": "Harlan Ellison",
+    "dataPublicacao": "2026-01-15",
+    "fotoAutor": "https://s2.glbimg.com/6kULKgS6AUXTMptSYs3N_rew2I0=/560x560/e.glbimg.com/og/ed/f/original/2018/07/05/1045-p74-obituario-01.jpg"
+  },
+  {
+    "id": 11,
+    "titulo": "Full Stack ou Full Estresse? Um Desabafo Dev",
+    "descricao": "Casimiro desabafa sobre a realidade do desenvolvedor full stack que precisa saber front-end, back-end, banco de dados, cloud e ainda tomar café para todos.",
+    "autor": "Casimiro",
+    "dataPublicacao": "2025-04-01",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOE2VxG6Yp_qY2I5vSgVxYmRZF2B3Q2WvFQ&s"
+  },
+  {
+    "id": 12,
+    "titulo": "O Código Quebrado: A Maldição do Legado",
+    "descricao": "Flow Podcast recebe um desenvolvedor misterioso que conta histórias de terror sobre sistemas legados que ninguém quer dar manutenção, mas todos dependem.",
+    "autor": "Flow Podcast",
+    "dataPublicacao": "2025-05-20",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA7yqY1wYYQV4tY9FpOmFVTtB2q3Yp1KEu0w&s"
+  },
+  {
+    "id": 13,
+    "titulo": "PHP: A Lenda Continua em 2026",
+    "descricao": "Um estudo surpreendente mostra que o PHP ainda roda em 80% da web e não vai a lugar nenhum, apesar das piadas e preconceitos da nova geração.",
+    "autor": "Felipe Deschamps",
+    "dataPublicacao": "2026-02-10",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5QnKkVL7uIeXVwK3RZpRx6XqL5Fp9wI3BzA&s"
+  },
+  {
+    "id": 14,
+    "titulo": "Programação Funcional Explicada com Chaves e Martelos",
+    "descricao": "Um guia criativo usando objetos do dia a dia para explicar conceitos complexos de programação funcional para iniciantes (e para você que já desistiu 3 vezes).",
+    "autor": "Manual do Mundo",
+    "dataPublicacao": "2025-07-15",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8LkFe1ZwNM1gkA2Dx9WyLX_PfuP58mU7fGQ&s"
+  },
+  {
+    "id": 15,
+    "titulo": "Deadpool Code: Como Sobreviver a Code Reviews",
+    "descricao": "Deadpool dá dicas nada convencionais (mas eficazes) para sobreviver a code reviews destrutivas, merges conflitantes e product owners que mudam de ideia.",
+    "autor": "Deadpool",
+    "dataPublicacao": "2025-09-30",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDyDkOKO3HYIixHfi6-P4rYzS21VKF3y3Yyg&s"
+  },
+  {
+    "id": 16,
+    "titulo": "Python vs JavaScript: O Duelo Final",
+    "descricao": "Um comparativo bem-humorado entre as duas linguagens que dominam o mundo, com direito a ringue, narrador e golpes baixos (mas sem violência, só código).",
+    "autor": "LubaTV",
+    "dataPublicacao": "2025-11-11",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0D9wVYvQpZJqL5Tn8xLl8lYkWwJZxZoF3MQ&s"
+  },
+  {
+    "id": 17,
+    "titulo": "O Silêncio dos Testes Unitários",
+    "descricao": "Um thriller psicológico onde um time de desenvolvimento é assombrado por testes que passam quando deveriam falhar e falham quando deveriam passar, sem explicação aparente.",
+    "autor": "Clarice Lispector",
+    "dataPublicacao": "2025-03-25",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE9e-7BZ2Z5nY0yPTPNnMv4nNd7KP3q5XpDQ&s"
+  },
+  {
+    "id": 18,
+    "titulo": "1984 no Mundo DevOps",
+    "descricao": "George Orwell imagina um mundo onde o Big Brother monitora cada linha de código, cada deploy e cada comentário no Jira. A liberdade morreu, mas o pipeline está verde.",
+    "autor": "George Orwell",
+    "dataPublicacao": "2024-12-12",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9PXUK7Vd8rBpF0pCcWY6HVg8Qp0Ht0wqVdg&s"
+  },
+  {
+    "id": 19,
+    "titulo": "Clean Code: A Saga Continua (Com Mais Bagunça)",
+    "descricao": "Uma releitura bem-humorada do clássico de Uncle Bob, agora comentada por um dev júnior que herdou um código sem comentários, sem testes e com variáveis chamadas 'x', 'y' e 'coisa'.",
+    "autor": "Jovem Nerd",
+    "dataPublicacao": "2025-08-05",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzk7RVOKwEBN7JzJW64a6UN4fhJFB8LJcHSA&s"
+  },
+  {
+    "id": 20,
+    "titulo": "O Algoritmo Mágico de Hogwarts",
+    "descricao": "Uma análise fantástica sobre como seria o curso de Ciência da Computação em Hogwarts, com feitiços de SQL, poções de depuração e varinhas que compilam Java.",
+    "autor": "JK Rowling",
+    "dataPublicacao": "2025-10-31",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBpF5qZ9MZYwN4iN6_5X7o7B5d5iQ5W5Y5wQ&s"
+  },
+  {
+    "id": 21,
+    "titulo": "HTML é Linguagem de Programação? O Debate Sem Fim",
+    "descricao": "Um vídeo-ensaio polêmico que reacende a discussão mais inútil (mas divertida) do mundo da tecnologia, com convidados especiais e direito a chuteira na mesa.",
+    "autor": "Gemaplys",
+    "dataPublicacao": "2026-01-25",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0zLmPq-tP1-5n5Y5X5pVnQ5W2b5zY5X5q5A&s"
+  },
+  {
+    "id": 22,
+    "titulo": "O Nome do Commit",
+    "descricao": "Um suspense medieval onde um monge precisa decifrar commits enigmáticos ('fix', 'update', 'corrige bug') para salvar o repositório de um apagão iminente.",
+    "autor": "Umberto Eco",
+    "dataPublicacao": "2024-08-18",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aY1BV5pTXuP2zY6nQ5W6X7Y8Z9A0B1C2D3E&s"
+  },
+  {
+    "id": 23,
+    "titulo": "Código Limpo vs Código Sujo: O Reality Show",
+    "descricao": "Um programa onde desenvolvedores competem para ver quem consegue entender e dar manutenção no código do concorrente. Spoiler: ninguém sobreviveu à primeira semana.",
+    "autor": "Boninho",
+    "dataPublicacao": "2025-06-20",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5X6Y7Z8A9B0C1D2E3F4G5H6I7J8K9L0M1N2O&s"
+  },
+  {
+    "id": 24,
+    "titulo": "Node.js Aprendiz: Um Herói Improvável",
+    "descricao": "A emocionante jornada de um servidor Node.js que precisa aprender a lidar com requisições, promises e callbacks para salvar a empresa de um crash total.",
+    "autor": "Maicon Küster",
+    "dataPublicacao": "2025-12-05",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O&s"
+  },
+  {
+    "id": 25,
+    "titulo": "O Pequeno Príncipe e o Servidor na Nuvem",
+    "descricao": "Uma adaptação sensível onde o Pequeno Príncipe descobre que o essencial é invisível aos olhos... assim como a infraestrutura serverless que ninguém vê, mas todo mundo usa.",
+    "autor": "Antoine de Saint-Exupéry",
+    "dataPublicacao": "2024-04-14",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Z6A7B8C9D0E1F2G3H4I5J6K7L8M9N0O1P2Q&s"
+  },
+  {
+    "id": 26,
+    "titulo": "Git: Viajando no Tempo com Commits",
+    "descricao": "Uma aventura onde um desenvolvedor viaja no tempo usando git checkout para consertar bugs do passado sem criar paradoxos (ou conflitos de merge no presente).",
+    "autor": "H. G. Wells",
+    "dataPublicacao": "2025-07-07",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q&s"
+  },
+  {
+    "id": 27,
+    "titulo": "Game of Tones: A Guerra dos Design Systems",
+    "descricao": "Uma épica batalha entre casas guerreiras pelo controle do design system da empresa, com direito a traições, alianças improváveis e usuários finais confusos.",
+    "autor": "George R. R. Martin",
+    "dataPublicacao": "2026-03-15",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Z8A9B0C1D2E3F4G5H6I7J8K9L0M1N2O3P4Q&s"
+  },
+  {
+    "id": 28,
+    "titulo": "Diário de um Banana na Programação",
+    "descricao": "As aventuras e desventuras de um desenvolvedor júnior quebrando tudo em produção, aprendendo na marra e tentando não ser demitido (spoiler: conseguiu, mas passou vergonha).",
+    "autor": "Jeff Kinney",
+    "dataPublicacao": "2025-01-01",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Z9A0B1C2D3E4F5G6H7I8J9K0L1M2N3O4P5Q&s"
+  },
+  {
+    "id": 29,
+    "titulo": "Sherlock Holmes e o Enigma do Banco de Dados",
+    "descricao": "O detetive mais famoso do mundo enfrenta seu maior desafio: encontrar um registro sumido em um banco de dados sem índices, sem backups e sem documentação.",
+    "autor": "Arthur Conan Doyle",
+    "dataPublicacao": "2024-10-10",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Z0A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q&s"
+  },
+  {
+    "id": 30,
+    "titulo": "Homem-Aranha: No Verso do Debug",
+    "descricao": "Miles Morales descobre um universo paralelo onde todos os desenvolvedores estão presos em loops infinitos de debugging e a única saída é encontrar o erro original.",
+    "autor": "Miles Morales",
+    "dataPublicacao": "2025-11-25",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7R&s"
   }
 ]

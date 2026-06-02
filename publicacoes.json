@@ -33,35 +33,35 @@
   },
   {
     "id": 5,
-    "titulo": "React: O Campeão dos Frameworks em 2025",
-    "descricao": "Uma análise completa sobre por que o React continua dominando o mercado de desenvolvimento front-end, mesmo com a concorrência de Vue, Angular e Svelte.",
-    "autor": "Luccas Neto",
-    "dataPublicacao": "2025-01-20",
-    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJBkzkXDZ7JGjbSVxvr80ki8I3SiLb6bvFnE7pugIYlMZA1yKmPuT-QmqXc4hsCx6HtYVso7d3YCgDjb6JcwWV1tDFWovoOJMNO6iwNTRP0Q&s=10"
+    "titulo": "Programação Funcional Explicada com Chaves e Martelos",
+    "descricao": "Um guia criativo usando objetos do dia a dia para explicar conceitos complexos de programação funcional para iniciantes (e para você que já desistiu 3 vezes).",
+    "autor": "Manual do Mundo",
+    "dataPublicacao": "2025-07-15",
+    "fotoAutor": "https://ogimg.infoglobo.com.br/in/20456620-302-c5b/FT1086A/Ibere.jpg"
   },
   {
     "id": 6,
-    "titulo": "Inteligência Artificial Vai Me Substituir?",
-    "descricao": "Harlan Ellison questiona o futuro dos desenvolvedores com a ascensão das IAs generativas, e se estamos caminhando para uma obsolescência programada ou uma nova era de criatividade.",
-    "autor": "Harlan Ellison",
-    "dataPublicacao": "2024-11-05",
-    "fotoAutor": "https://s2.glbimg.com/6kULKgS6AUXTMptSYs3N_rew2I0=/560x560/e.glbimg.com/og/ed/f/original/2018/07/05/1045-p74-obituario-01.jpg"
+    "titulo": "Clean Code: A Saga Continua (Com Mais Bagunça)",
+    "descricao": "Uma releitura bem-humorada do clássico de Uncle Bob, agora comentada por um dev júnior que herdou um código sem comentários, sem testes e com variáveis chamadas 'x', 'y' e 'coisa'.",
+    "autor": "Jovem Nerd",
+    "dataPublicacao": "2025-08-05",
+    "fotoAutor": "https://media.licdn.com/dms/image/v2/C4E0BAQH1Rd1644eQYQ/company-logo_200_200/company-logo_200_200/0/1631307986269?e=2147483647&v=beta&t=ALzoPx_hKefVPU71gN7QAmO6EH1Em4SDS2V7YGky2Bc"
   },
   {
     "id": 7,
-    "titulo": "O Enigma do Banco de Dados Sem Nome",
-    "descricao": "Daniel Hartmann mergulha nos mistérios de um banco de dados misterioso que aparece e some dos servidores, deixando apenas rastros de queries indecifráveis.",
-    "autor": "Daniel Hartmann",
-    "dataPublicacao": "2025-02-14",
-    "fotoAutor": "https://static.wikia.nocookie.net/ordemparanormal/images/3/33/Retrato_de_Daniel_Hartmann_em_O_Espreitador_e_Outras_Hist%C3%B3rias.png/revision/latest?cb=20241219002912&path-prefix=pt-br"
+    "titulo": "Sherlock Holmes e o Enigma do Banco de Dados",
+    "descricao": "O detetive mais famoso do mundo enfrenta seu maior desafio: encontrar um registro sumido em um banco de dados sem índices, sem backups e sem documentação.",
+    "autor": "Arthur Conan Doyle",
+    "dataPublicacao": "2024-10-10",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfTxld3B1YWd0yAbBnN_lwOxAAW0lrKFn3YA&s"
   },
   {
     "id": 8,
-    "titulo": "TypeScript: A Divina Comédia das Tipagens",
-    "descricao": "Uma jornada poética pelo inferno do JavaScript sem tipos, o purgatório das tipagens dinâmicas e o paraíso da segurança que o TypeScript proporciona.",
-    "autor": "Dante Alighieri",
-    "dataPublicacao": "2024-09-30",
-    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYzFz7uzZUGlVicShtpvy3r0OHkUhrUN075EBVPefbAgkCvOdGL1J4JOJMiLWNhSh2IRLIm1i4qeiZ0OiMRkyTRSxIDWxaoPAqQ5QQE_U1w&s=10"
+    "titulo": "O Algoritmo Mágico de Hogwarts",
+    "descricao": "Uma análise fantástica sobre como seria o curso de Ciência da Computação em Hogwarts, com feitiços de SQL, poções de depuração e varinhas que compilam Java.",
+    "autor": "JK Rowling",
+    "dataPublicacao": "2025-10-31",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqa7P0p4S1mze-F2Gv3GT2E8w7wDxah2u1Q&s"
   },
   {
     "id": 9,
@@ -105,11 +105,11 @@
   },
   {
     "id": 14,
-    "titulo": "Programação Funcional Explicada com Chaves e Martelos",
-    "descricao": "Um guia criativo usando objetos do dia a dia para explicar conceitos complexos de programação funcional para iniciantes (e para você que já desistiu 3 vezes).",
-    "autor": "Manual do Mundo",
-    "dataPublicacao": "2025-07-15",
-    "fotoAutor": "https://ogimg.infoglobo.com.br/in/20456620-302-c5b/FT1086A/Ibere.jpg"
+    "titulo": "React: O Campeão dos Frameworks em 2025",
+    "descricao": "Uma análise completa sobre por que o React continua dominando o mercado de desenvolvimento front-end, mesmo com a concorrência de Vue, Angular e Svelte.",
+    "autor": "Luccas Neto",
+    "dataPublicacao": "2025-01-20",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJBkzkXDZ7JGjbSVxvr80ki8I3SiLb6bvFnE7pugIYlMZA1yKmPuT-QmqXc4hsCx6HtYVso7d3YCgDjb6JcwWV1tDFWovoOJMNO6iwNTRP0Q&s=10"
   },
   {
     "id": 15,
@@ -145,19 +145,19 @@
   },
   {
     "id": 19,
-    "titulo": "Clean Code: A Saga Continua (Com Mais Bagunça)",
-    "descricao": "Uma releitura bem-humorada do clássico de Uncle Bob, agora comentada por um dev júnior que herdou um código sem comentários, sem testes e com variáveis chamadas 'x', 'y' e 'coisa'.",
-    "autor": "Jovem Nerd",
-    "dataPublicacao": "2025-08-05",
-    "fotoAutor": "https://media.licdn.com/dms/image/v2/C4E0BAQH1Rd1644eQYQ/company-logo_200_200/company-logo_200_200/0/1631307986269?e=2147483647&v=beta&t=ALzoPx_hKefVPU71gN7QAmO6EH1Em4SDS2V7YGky2Bc"
+    "titulo": "Inteligência Artificial Vai Me Substituir?",
+    "descricao": "Harlan Ellison questiona o futuro dos desenvolvedores com a ascensão das IAs generativas, e se estamos caminhando para uma obsolescência programada ou uma nova era de criatividade.",
+    "autor": "Harlan Ellison",
+    "dataPublicacao": "2024-11-05",
+    "fotoAutor": "https://s2.glbimg.com/6kULKgS6AUXTMptSYs3N_rew2I0=/560x560/e.glbimg.com/og/ed/f/original/2018/07/05/1045-p74-obituario-01.jpg"
   },
   {
     "id": 20,
-    "titulo": "O Algoritmo Mágico de Hogwarts",
-    "descricao": "Uma análise fantástica sobre como seria o curso de Ciência da Computação em Hogwarts, com feitiços de SQL, poções de depuração e varinhas que compilam Java.",
-    "autor": "JK Rowling",
-    "dataPublicacao": "2025-10-31",
-    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqa7P0p4S1mze-F2Gv3GT2E8w7wDxah2u1Q&s"
+    "titulo": "TypeScript: A Divina Comédia das Tipagens",
+    "descricao": "Uma jornada poética pelo inferno do JavaScript sem tipos, o purgatório das tipagens dinâmicas e o paraíso da segurança que o TypeScript proporciona.",
+    "autor": "Dante Alighieri",
+    "dataPublicacao": "2024-09-30",
+    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYzFz7uzZUGlVicShtpvy3r0OHkUhrUN075EBVPefbAgkCvOdGL1J4JOJMiLWNhSh2IRLIm1i4qeiZ0OiMRkyTRSxIDWxaoPAqQ5QQE_U1w&s=10"
   },
   {
     "id": 21,
@@ -225,11 +225,11 @@
   },
   {
     "id": 29,
-    "titulo": "Sherlock Holmes e o Enigma do Banco de Dados",
-    "descricao": "O detetive mais famoso do mundo enfrenta seu maior desafio: encontrar um registro sumido em um banco de dados sem índices, sem backups e sem documentação.",
-    "autor": "Arthur Conan Doyle",
-    "dataPublicacao": "2024-10-10",
-    "fotoAutor": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfTxld3B1YWd0yAbBnN_lwOxAAW0lrKFn3YA&s"
+    "titulo": "O Enigma do Banco de Dados Sem Nome",
+    "descricao": "Daniel Hartmann mergulha nos mistérios de um banco de dados misterioso que aparece e some dos servidores, deixando apenas rastros de queries indecifráveis.",
+    "autor": "Daniel Hartmann",
+    "dataPublicacao": "2025-02-14",
+    "fotoAutor": "https://static.wikia.nocookie.net/ordemparanormal/images/3/33/Retrato_de_Daniel_Hartmann_em_O_Espreitador_e_Outras_Hist%C3%B3rias.png/revision/latest?cb=20241219002912&path-prefix=pt-br"
   },
   {
     "id": 30,

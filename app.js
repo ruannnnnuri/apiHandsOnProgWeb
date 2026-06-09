@@ -21,6 +21,11 @@ const pool = new Pool({
 app.use(cors());
 app.use(express.json());
 
+const authRoutes = require('./routes/auth');
+app.use(authRoutes);
+
+const verifyToken = require('./middlewares/verifyToken');
+
 app.get('/', (req, res) => {
 	res.send('Sou o Projeto de Node + Express!');
 });
@@ -58,7 +63,7 @@ const swaggerDocument = jsYaml.load(fs.readFileSync(swaggerFilePath, 'utf8'));
 
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
-app.get('/posts', (req, res) => {
+app.get('/posts', verifyToken, (req, res) => {
 	const caminhoArquivo = path.join(__dirname, 'publicacoes.json');
 	res.sendFile(caminhoArquivo);
 });
